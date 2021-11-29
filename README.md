@@ -2,6 +2,8 @@
 
 In this project we develop an analysis over the house prices. We make a basic EDA to undertand the data. After that we use 3 different linear regression models to try to predict the results.
 
+You should check the EDA and the Model Jupyter notebook to understand the data.
+
 ## Models
 
 ### 1 Linear Regression: with a 
